@@ -1,0 +1,16 @@
+{
+  "name": "svg-dice-3d",
+  "version": "1.0.0",
+  "description": "a simple dice 3D made with SVG",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "octavio_oi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
